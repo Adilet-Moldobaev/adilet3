@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.images1{
+   margin-left: 200px;
+   margin-top: 100px;
+}
+.razer{
+    margin-left: 650px;
+    margin-top: -50px;
+    display: flex;
+    justify-content: flex-start;
+}
